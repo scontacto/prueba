@@ -1,5 +1,5 @@
-hola, esta es la segunda prueba en git hub
+hola, esta es la primera prueba en git hub
 
 Saludos cordiales a todos
 
-version 2.0
+version 1.0
