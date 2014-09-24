@@ -1,1 +1,2 @@
-Prueba con rama master
+hola a todos de nuevo.
+prueba con conflictos, rama conflicto
